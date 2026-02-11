@@ -1,5 +1,3 @@
-Say less. Here’s a clean but cool one you can slap at the top of the README:
-
 [ NOTICE: ⚠️ Project Discontinued ]
 🚧 This repository was an old experimental project.
 It is no longer maintained and will not receive updates, fixes, or support.
